@@ -1,0 +1,68 @@
+[
+	{
+		"user": "bryan",
+		"pokemons": [
+			{
+				"dex": 1,
+				"name": "Bulbasaur",
+				"stats": {
+					"baseAttack": 118,
+					"baseDefense": 111,
+					"baseStamina": 128
+				},
+				"types": [
+					{
+						"id": "POKEMON_TYPE_GRASS",
+						"name": "Grass"
+					},
+					{
+						"id": "POKEMON_TYPE_POISON",
+						"name": "Poison"
+					}
+				]
+			},
+			{
+				"dex": 2,
+				"name": "Ivysaur",
+				"stats": {
+					"baseAttack": 151,
+					"baseDefense": 143,
+					"baseStamina": 155
+				},
+				"types": [
+					{
+						"id": "POKEMON_TYPE_GRASS",
+						"name": "Grass"
+					},
+					{
+						"id": "POKEMON_TYPE_POISON",
+						"name": "Poison"
+					}
+				]
+			},
+			{
+				"dex": 6,
+				"name": "Charizard",
+				"stats": {
+					"baseAttack": 223,
+					"baseDefense": 173,
+					"baseStamina": 186
+				},
+				"types": [
+					{
+						"id": "POKEMON_TYPE_FIRE",
+						"name": "Fire"
+					},
+					{
+						"id": "POKEMON_TYPE_FLYING",
+						"name": "Flying"
+					}
+				]
+			}
+		]
+	},
+	{
+		"user": "bryan2",
+		"pokemons": []
+	}
+]

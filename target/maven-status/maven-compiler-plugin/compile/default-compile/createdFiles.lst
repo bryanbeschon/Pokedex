@@ -1,0 +1,10 @@
+com/poke/pokedex/model/ModifPokemon.class
+com/poke/pokedex/model/LoginPassword.class
+com/poke/pokedex/controller/PokemonController.class
+com/poke/pokedex/controller/Test.class
+com/poke/pokedex/model/PokemonSuppr.class
+com/poke/pokedex/model/Pokemon.class
+com/poke/pokedex/model/Stats.class
+com/poke/pokedex/controller/LoginController.class
+com/poke/pokedex/model/Pokemonsuser.class
+com/poke/pokedex/model/Types.class
